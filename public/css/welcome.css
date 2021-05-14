@@ -1,0 +1,10 @@
+.titleContainer {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.titleContainer h1 {
+  font-weight: lighter;
+  color: #95999c;
+}
